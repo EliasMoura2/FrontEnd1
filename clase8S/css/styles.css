@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+#top {
+    background-color: #222222;
+    color: #F3F3F3;
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+#img {
+    background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+#banner {
+    text-align: center;
+}
+
+#banner h2 {
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#banner h2, #productos h2 {
+    color: #3C2313;
+}
+
+#img p {
+    padding: 10px;
+}
+
+#btn {
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+
+.card p {
+    color: #F0A83E;
+}
+
+#contact {
+    background-color:#3C2313;
+}
+
+#contact h2 {
+    color: #FFFFFF;
+}
+
+#contact p {
+    color: #8A8787;
+}
+
+#derechos {
+    background-color: #222222;
+    color: #FFFFFF;
+    text-align: center;
+}
